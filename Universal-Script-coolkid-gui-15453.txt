@@ -13033,7 +13033,7 @@ local title = Instance.new("TextLabel")
 	title.ZIndex = 2
 	title.Font = "SourceSansBold"
 	title.FontSize = "Size14"
-	title.Text = "Admin Commands/Guis"
+	title.Text = "Backdoor shit"
 	title.TextColor3 = whit
 local title = Instance.new("TextLabel")
 	title.Parent = sd
@@ -13045,7 +13045,7 @@ local title = Instance.new("TextLabel")
 	title.ZIndex = 2
 	title.Font = "SourceSansBold"
 	title.FontSize = "Size14"
-	title.Text = "Server Destruction"
+	title.Text = "Local Fuckury"
 	title.TextColor3 = whit
 --Page 1 End --
 
